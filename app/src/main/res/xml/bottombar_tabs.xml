@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<tabs>
+    <tab
+        id="@+id/tab_rotate"
+        icon="@drawable/ic_3d_rotation"
+        title="3D" />
+    <tab
+        id="@+id/tab_account"
+        icon="@drawable/ic_account_balance"
+        title="Nearby" />
+    <tab
+        id="@+id/tab_adjust"
+        icon="@drawable/ic_adjust"
+        title="Friends" />
+</tabs>
